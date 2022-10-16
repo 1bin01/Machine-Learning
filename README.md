@@ -5,4 +5,5 @@
 <br>
 ### ML 걸음마 떼기
 * Introduction to Machine Learning with Python(22.10~)
-  * cp1.Introuduction  
+  * cp1.introuduction
+  * cp2.upervised-learning.ipynb
