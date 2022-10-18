@@ -1,0 +1,5 @@
+고생 끝에 간단한 방법을 찾있디/ joblib version을 downgrade 하면 해결된다ㅠ
+
+!pip install mglearn
+!pip install --upgrade joblib==1.1.0
+import mglearn
