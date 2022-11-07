@@ -7,3 +7,4 @@
 * **Introduction to Machine Learning with Python(22.10~)**
   * cp1.introuduction
   * cp2.supervised-learning
+  * cp3.unsupervised-learning
