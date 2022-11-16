@@ -7,3 +7,4 @@ ML 기초부터 다지는 중입니다
   * cp1.introuduction
   * cp2.supervised-learning
   * cp3.unsupervised-learning
+  * cp4.representing-data-feature-engineering
