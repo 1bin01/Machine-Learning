@@ -8,3 +8,4 @@ ML 기초부터 다지는 중입니다
   * ch2.supervised-learning
   * ch3.unsupervised-learning
   * ch4.representing-data-feature-engineering
+  * ch5.model_evaluation_and_improvement
